@@ -16,5 +16,4 @@ for i in range(ord(letters[0]), ord(letters[l-1])+1):
     else:
         result.append(chr(i))
 
-
 print(result)
